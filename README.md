@@ -18,10 +18,6 @@ The project reads a text file called 'don.txt' that consists of 2,752 ASCII-enco
 ## Conclusion
 The project reports the number of collisions resulting from each hash function and determines which one is the best for the tested input file. If the number of collisions resulting from the hashB function is less than that of the hashC function, then hashB is the better function. If the number of collisions resulting from hashC is less than that of the hashB function, then hashC is the better function. If both functions produce the same number of collisions, then they perform equivalently.
 
-## Credits
-
-This project was developed by Harsh Mehta.
-
 ## Academic Integrity Statement
 
 Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without proper attribution and permission from the author.
